@@ -26,7 +26,7 @@
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865715-a1ad8c93-86a1-47a6-a075-4e4ce656dbe0.gif)
 
 
-# Reach me here!
+# Reach me here!!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ptw_yanuroelt1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-pramana-wijaya-756a48201/)
