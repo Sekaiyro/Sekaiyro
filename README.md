@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi Everyone 👋
-👦My name is Adrian Pramana WIjaya Im student at Malang Telkom Vocation School at Software Enginering Major,I am now in the 10th grade.I like to programming with Java languange because its fun to experiment with the languange. Im also learning python and JavaScript
+👦My name is Adrian Pramana WIjaya Im student at Malang Telkom Vocation School at Software Enginering Major,I am now in the 10th grade.I like to programming with Java languange because its fun to experiment with the languange. Im also learning HTML and JavaScript
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adrian-Pramana-Wijaya&theme=radical)
