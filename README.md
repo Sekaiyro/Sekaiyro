@@ -11,8 +11,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrian-Pramana-Wijaya&theme=github_dark)
 
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Pramana-Wijaya&theme=tokyonight_duo" alt="mystreak"/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adrian-Pramana-Wijaya&theme=github_dark)
+
 
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
 
