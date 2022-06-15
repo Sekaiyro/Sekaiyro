@@ -18,7 +18,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Pramana-Wijaya&theme=tokyonight_duo" alt="mystreak"/>
 
-
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
 
 [![](https://activity-graph.herokuapp.com/graph?username=Adrian-Pramana-Wijaya&theme=react-dark)](AkuraDiary)
@@ -33,3 +32,5 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian_wijaya_30rpl@student.smktelkom-mlg.sch.id)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PTWYanuroHS)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=081390948993)
+
+<h5 align="center">Made With ❤️ by Adrian Pramana Wijaya</h5>
