@@ -3,7 +3,9 @@
 👦My name is `Adrian Pramana Wijaya` Im `student` at `Malang Telkom Vocation School` at `Software Enginering Major, Android`,I am now in the `11th grade`.I like to programming with `Java` languange because its fun to experiment with the languange. Im also learning `Kotlin` and `Flutter`
 </br>
 
-# My statistic in GitHub
+# My Activity On Github
+![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
+![](https://github-readme-stats.vercel.app/api?username=Adrian-Pramana-Wijaya&show_icons=true&theme=github_dark) <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Pramana-Wijaya&theme=tokyonight_duo" alt="mystreak"/>
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adrian-Pramana-Wijaya&theme=monokai)](https://github.com/Adrian-Pramana-Wijaya/github-profile-trophy)
@@ -18,15 +20,7 @@
 
 
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
-
-![](https://github-readme-stats.vercel.app/api?username=Adrian-Pramana-Wijaya&show_icons=true&theme=github_dark)
-
-![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Pramana-Wijaya&theme=tokyonight_duo" alt="mystreak"/>
-
-![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
-
+  
 [![](https://activity-graph.herokuapp.com/graph?username=Adrian-Pramana-Wijaya&theme=react-dark)](AkuraDiary)
 
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865715-a1ad8c93-86a1-47a6-a075-4e4ce656dbe0.gif)
