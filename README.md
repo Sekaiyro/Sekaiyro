@@ -5,7 +5,7 @@
 
 # My Activity On Github
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
-![](https://github-readme-stats.vercel.app/api?username=Adrian-Pramana-Wijaya&show_icons=true&theme=github_dark) <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-Pramana-Wijaya&theme=tokyonight_duo" alt="mystreak"/>
+![](https://github-readme-stats.vercel.app/api?username=Adrian-Pramana-Wijaya&show_icons=true&theme=github_dark) 
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adrian-Pramana-Wijaya&theme=monokai)](https://github.com/Adrian-Pramana-Wijaya/github-profile-trophy)
