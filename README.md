@@ -14,7 +14,7 @@
 
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
 
-<h3 align="left">Support By:</h3>
+<h3 align="left">Project on Progress:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/PF6jZvz/Adrian1-removebg-preview-1.png" alt="Perpustakaan Adrian" width="100" height="100"/>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/xzvMTVN/21-removebg-preview-1-2.png" alt="21-removebg-preview-1-2" border="0"></a>
 
