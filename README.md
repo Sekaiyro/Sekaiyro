@@ -3,6 +3,8 @@
 👦My name is `Adrian Pramana Wijaya` Im `student` at `Malang Telkom Vocation School` at `Software Enginering Major, Android`,I am now in the `11th grade`.I like to programming with `Java` languange because its fun to experiment with the languange. Im also learning `Kotlin` and `Flutter`
 </br>
 
+<h3 align="center">Made With ❤️ by Adrian Pramana Wijaya</h3>
+
 # My Activity On Github
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
 ![](https://github-readme-stats.vercel.app/api?username=Adrian-Pramana-Wijaya&show_icons=true&theme=github_dark) 
@@ -34,4 +36,4 @@
 [![Telegram](https://img.shields.io/badge/Adrian-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adrianpramanwijaya)
 [![WhatsApp](https://img.shields.io/badge/Adrian.-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=081390948993)
 
-<h5 align="center">Made With ❤️ by Adrian Pramana Wijaya</h5>
+
