@@ -20,11 +20,6 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/PF6jZvz/Adrian1-removebg-preview-1.png" alt="Perpustakaan Adrian" width="100" height="100"/>
 <a href="https://api.whatsapp.com/send?phone=6281390948993"><img src="https://i.ibb.co/xzvMTVN/21-removebg-preview-1-2.png" alt="21-removebg-preview-1-2" border="0"></a>
 
-
-![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
-  
-[![](https://activity-graph.herokuapp.com/graph?username=Adrian-Pramana-Wijaya&theme=react-dark)](AkuraDiary)
-
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865715-a1ad8c93-86a1-47a6-a075-4e4ce656dbe0.gif)
 
 
