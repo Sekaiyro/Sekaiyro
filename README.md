@@ -19,14 +19,13 @@
 <a href="https://api.whatsapp.com/send?phone=6281390948993"><img src="https://i.ibb.co/xzvMTVN/21-removebg-preview-1-2.png" alt="21-removebg-preview-1-2" border="0"></a>
 
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865715-a1ad8c93-86a1-47a6-a075-4e4ce656dbe0.gif)
-
 # Reach me here!!
-
 [![Instagram](https://img.shields.io/badge/adrianpramanawijaya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrianpramanawijaya)
 [![LinkedIn](https://img.shields.io/badge/AdrianPramanaWijaya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-pramana-wijaya-756a48201/)
 [![gmail](https://img.shields.io/badge/Adrian-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian_wijaya_30rpl@student.smktelkom-mlg.sch.id)
 [![Telegram](https://img.shields.io/badge/Adrian-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adrianpramanwijaya)
 [![WhatsApp](https://img.shields.io/badge/Adrian.-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=081390948993)
+ ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
  <h3 align="center">Made With ❤️ by Adrian Pramana Wijaya</h3>
 
 
