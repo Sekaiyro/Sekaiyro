@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Adrian-Pramana-Wijaya)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Sekaiyro)
 ### Hi Everyone 👋
 👦My name is `Adrian Pramana Wijaya` Im `student` at `Malang Telkom Vocation School` at `Software Enginering Major, Android`,I am now in the `11th grade`.I like to programming with `Kotlin` languange because its fun to experiment with the languange. Im also learning `C#` and `Flutter`
 </br>
@@ -6,12 +6,12 @@
 
 # My Activity On Github
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adrian-Pramana-Wijaya&theme=monokai)](https://github.com/Adrian-Pramana-Wijaya/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sekaiyro&theme=monokai)](https://github.com/Sekaiyro/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
-![](https://github-readme-stats.vercel.app/api?username=Adrian-Pramana-Wijaya&show_icons=true&theme=github_dark) 
+![](https://github-readme-stats.vercel.app/api?username=Sekaiyro&show_icons=true&theme=github_dark) 
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
 
 <h3 align="left">Project on Progress:</h3>
