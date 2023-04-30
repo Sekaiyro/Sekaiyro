@@ -1,3 +1,5 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sekaiyro)
 ### Hi Everyone 👋
 👦My name is `Adrian Pramana Wijaya` Im `student` at `Malang Telkom Vocation School` at `Software Enginering Major, Android`,I am now in the `11th grade`.I like to programming with `Kotlin` languange because its fun to experiment with the languange. Im also learning `C#` and `Flutter`
