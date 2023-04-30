@@ -1,6 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Sekaiyro)
 ### Hi Everyone 👋
 👦My name is `Adrian Pramana Wijaya` Im `student` at `Malang Telkom Vocation School` at `Software Enginering Major, Android`,I am now in the `11th grade`.I like to programming with `Kotlin` languange because its fun to experiment with the languange. Im also learning `C#` and `Flutter`
 </br>
@@ -28,6 +27,8 @@
 [![Telegram](https://img.shields.io/badge/Adrian-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adrianpramanwijaya)
 [![WhatsApp](https://img.shields.io/badge/Adrian.-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=081390948993)
  ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
+ 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sekaiyro)
  <h3 align="center">Made With ❤️ by Adrian Pramana Wijaya</h3>
 
 
