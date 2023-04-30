@@ -5,7 +5,7 @@
 </br>
 
 
-# My Activity On Github
+# My Activity
 ![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sekaiyro&theme=monokai)](https://github.com/Sekaiyro/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
